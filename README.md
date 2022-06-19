@@ -42,6 +42,12 @@ Ao passar de ativada para destruída, a activity aciona métodos importantes do 
   </ol>
 </p>
 </div>
+<div align="middle">
+<h2>O ciclo de vida: a existência em primeiro plano</h2> 
+<img src="https://user-images.githubusercontent.com/29150094/174499447-cc25eba5-8aab-4c77-ae7e-b6e260223087.png" width="450" height="680" /> 
+</div>
+
+
 
 
 
