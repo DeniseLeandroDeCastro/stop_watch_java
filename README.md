@@ -31,6 +31,17 @@ Ao passar de ativada para destruída, a activity aciona métodos importantes do 
 <h2>O ciclo de vida: da criação à destruição</h2> 
 <img src="https://user-images.githubusercontent.com/29150094/174484709-9fbb552e-eda3-4d8b-a496-203383ba57fd.png" width="250" height="480" /> 
 </div>
+<div>
+<p>
+  <ol>
+    <li>A activity é ativada. O objeto activity é criado e seu construtor é executado.</li>
+    <li>O método onCreate( ) é executado logo depois da ativação da activity. O código de iinicialização deve estar no método onCreate( ), pois esse método   sempre é chamado depois da ativação da activity e antes da sua execução.</li>
+    <li>Uma activity está em execução quando é visível no primeiro plano e o usuário pode interagir com ela. A activity passa a maior parte da vida nesse estado.</li>
+    <li>O método onDestroy( ) é executado logo depois da destruição da activity. Ele permite a realização de ações de limpeza final, como a liberação de recursos.</li>
+    <li>Depois da execução do método onDestroy( ), a activity é destruída e deixa de existir.</li>
+  </ol>
+</p>
+</div>
 
 
 
