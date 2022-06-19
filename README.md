@@ -16,8 +16,9 @@ um botão para iniciar o cronômetro,um botão que para o cronômetro, e um outr
   Quando o Android cria e destrói uma Activity, ela passa pelos estados de ativada, em execução e destruída.
   </p>
   <div align="middle">
-  <img src="https://user-images.githubusercontent.com/29150094/174480469-33677216-5283-4eef-8e9a-afc376cbab49.png" width="200" height="350" />  
+  <img src="https://user-images.githubusercontent.com/29150094/174481329-71a09bf2-7ec3-444b-af18-a4ed7236781d.png" width="600" height="480" />  
   </div>
 </div>
+
 
 
